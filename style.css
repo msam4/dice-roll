@@ -7,8 +7,8 @@
 body {
   height: 100vh;
   background: linear-gradient(
-    #e92e3d,
-    #ff6e6a
+    #585858,
+    #000000
   ) 0 100% no-repeat;
   background-size: 100% 50%;
 }
@@ -48,7 +48,7 @@ p {
 }
 
 button {
-  background-color: #e92e3d;
+  background-color: #000000;
   border: none;
   outline: none;
   color: #ffffff;
